@@ -9,4 +9,4 @@
 - А/В-тестирование
 
 ## Используемые библиотеки
-Pandas, Matplotlib, Seaborn, Plotly
+Pandas, Matplotlib, Seaborn, Plotly, numpy, math
